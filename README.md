@@ -85,7 +85,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Three naturally occurring clusters are ultimately identified. However, further analyses of each identified cluster will need to be conducted if the management would like to learn more about each of its characteristics.
 
-## Notes & Glossary
+## Writings & Notes
 ### Statistics
 
 ### SQL
