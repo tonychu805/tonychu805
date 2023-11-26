@@ -21,6 +21,7 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 	+ [2. Food Delivery Platform Analysis - Go-To-Market Strategies](#2-food-delivery-platform-analysis---go-to-market-strategies)
 	+ [3. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
 	+ [4. Smartphone user clustering](#4-smartphone-user-clustering)
+	+ [5. Credit Fraud Detection](
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -39,7 +40,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization, segmentation analysis, linear regression analysis, support vector machine, random forest, decision trees, principle components analysis,
 
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Sklearn, 
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Sklearn
 
 **Results:** A deep dive into the impact of three-point shots on the NBA game, user type based on analytics, and prediction of NBA MVPs.  
 
@@ -84,6 +85,19 @@ In this section, I will list data analytics projects briefly describing the tech
 **Technology:** R, dplyr, magrittr, ggplot2, tidyverse, finalfit, hmisc, pastecs, psych, corrplot, discriminer, base, reshape2, resample, dendextend, fpc, dbscan
 
 **Results:** Three naturally occurring clusters are ultimately identified. However, further analyses of each identified cluster will need to be conducted if the management would like to learn more about each of its characteristics.
+
+### 5. Credit fraud detection
+**Code:** [`fraud_detection.ipynb`]()
+
+**Description:** With a given credit card transaction dataset that has been processed with principal component analysis, the exercise seeks to identify a model that can accurately predict future credict card fraud using machine learning algorithm.
+
+**Skills:** Data cleaning, description analysis, correlation analysis, machine learning
+
+**Technology:** Python, sklearn, Pandas, Numpy, Seaborn, Matplotlib, Logistic Regression, SVM, Random Forest
+
+**Results:** Logistic Regression has the highest predictive power to detect credit card fraud with 95.42% accuracy.
+
+
 
 ## Writings & Notes
 ### Statistics
