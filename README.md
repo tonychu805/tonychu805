@@ -99,7 +99,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 
 
-## Writings & Notes (Notions)
+## Writings & Notes(Notion)
 
 ### Statistics
 
