@@ -87,7 +87,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** Three naturally occurring clusters are ultimately identified. However, further analyses of each identified cluster will need to be conducted if the management would like to learn more about each of its characteristics.
 
 ### 5. Credit fraud detection
-**Code:** [`fraud_detection.ipynb`]()
+**Code:** [`fraud_detection.ipynb`](https://github.com/tonychu805/credit_card_fraud_detection/blob/main/fraud_detection.ipynb)
 
 **Description:** With a given credit card transaction dataset that has been processed with principal component analysis, the exercise seeks to identify a model that can accurately predict future credict card fraud using machine learning algorithm.
 
