@@ -100,11 +100,18 @@ In this section, I will list data analytics projects briefly describing the tech
 
 
 ## Writings & Notes
+
 ### Statistics
 
 ### SQL
 
 ### Data Science
+- Natural Language Processing (NLP)
+	- Universal Information Extraction (UIE)
+ 	- Universal Semantic Matching (USM)
+  	- Universal Text Classification (UTC)  
+
+
 
 ## Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
