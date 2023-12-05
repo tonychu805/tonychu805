@@ -21,7 +21,7 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 	+ [2. Food Delivery Platform Analysis - Go-To-Market Strategies](#2-food-delivery-platform-analysis---go-to-market-strategies)
 	+ [3. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
 	+ [4. Smartphone user clustering](#4-smartphone-user-clustering)
-	+ [5. Credit Fraud Detection](
+	+ [5. Credit Fraud Detection](#5-credit-fraud-detection)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
