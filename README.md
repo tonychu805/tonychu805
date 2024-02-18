@@ -115,18 +115,19 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ## Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
-- [Big Data and Hadoop Essentials](https://www.udemy.com/certificate/UC-IX3PT0YD/) (May 2016)(Udemy)
-- [SQL for Beginner Data Analysis](https://udemy-certificate.s3.amazonaws.com/pdf/UC-7OUXO2ZH.pdf) (Jul 2016)(Udemy)
-- [Intro to Programming Nanodegree](https://confirm.udacity.com/WM9YRAFX) (Sep 2016)(Udacity)
-- [Complete SQL Bootcamp](https://udemy-certificate.s3.amazonaws.com/pdf/UC-E05IGQ0Q.pdf) (Oct 2016)(Udemy)
-- [Master Excel Pivot Table](https://www.udemy.com/certificate/UC-GJ31OB9G/) (Nov 2016)(Udemy)
-- [SQL - MySQL for Data Analytics and Business Intelligence](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0BTWQELU.pdf) (Jul 2019)(Udemy)
-- [Introduction to Analytics Modeling](https://courses.edx.org/certificates/eeb48e32c0044448bccedacd50773eac) (May 2019)(Georgia Tech)
-- [Data Analytics for Business](https://courses.edx.org/certificates/d83707bc38b54cacbc7283593b4c6a91) (Dec 2019)(Georgia Tech)
-- [Computing for Data Analysis](https://courses.edx.org/certificates/e771a69c972242ba9a78e06ad3974701) (Dec 2019)(Georgia Tech)
-- [Analytics: Essential Tools and Methods MicroMaster](https://credentials.edx.org/credentials/6eb5a4245dcd4348ba175be67a07152c) (Dec 2019)(Georgia Tech)
+- [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/22580781-6bd7-4c2b-a3bd-7bfdbfdb88d6/public_url) (Mar 2022)(IBM)\
 - [Python + SQL + Tableau: Integrating Python, SQL, and Tableau](https://www.udemy.com/certificate/UC-bdd36dc1-19d0-42e8-8e8e-7b66ca8e36b0/) (Mar 2020)(Udemy)
-- [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/22580781-6bd7-4c2b-a3bd-7bfdbfdb88d6/public_url) (Mar 2022)(IBM)
+- [Analytics: Essential Tools and Methods MicroMaster](https://credentials.edx.org/credentials/6eb5a4245dcd4348ba175be67a07152c) (Dec 2019)(Georgia Tech)
+- [Computing for Data Analysis](https://courses.edx.org/certificates/e771a69c972242ba9a78e06ad3974701) (Dec 2019)(Georgia Tech)
+- [Data Analytics for Business](https://courses.edx.org/certificates/d83707bc38b54cacbc7283593b4c6a91) (Dec 2019)(Georgia Tech)
+- [Introduction to Analytics Modeling](https://courses.edx.org/certificates/eeb48e32c0044448bccedacd50773eac) (May 2019)(Georgia Tech)
+- [SQL - MySQL for Data Analytics and Business Intelligence](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0BTWQELU.pdf) (Jul 2019)(Udemy)
+- [Master Excel Pivot Table](https://www.udemy.com/certificate/UC-GJ31OB9G/) (Nov 2016)(Udemy)
+- [Complete SQL Bootcamp](https://udemy-certificate.s3.amazonaws.com/pdf/UC-E05IGQ0Q.pdf) (Oct 2016)(Udemy)
+- [Intro to Programming Nanodegree](https://confirm.udacity.com/WM9YRAFX) (Sep 2016)(Udacity)
+- [SQL for Beginner Data Analysis](https://udemy-certificate.s3.amazonaws.com/pdf/UC-7OUXO2ZH.pdf) (Jul 2016)(Udemy)
+- [Big Data and Hadoop Essentials](https://www.udemy.com/certificate/UC-IX3PT0YD/) (May 2016)(Udemy)
+
 
 
 ## Contacts
