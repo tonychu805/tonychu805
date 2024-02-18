@@ -115,7 +115,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ## Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
-- [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/22580781-6bd7-4c2b-a3bd-7bfdbfdb88d6/public_url) (Mar 2022)(IBM)\
+- [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/22580781-6bd7-4c2b-a3bd-7bfdbfdb88d6/public_url) (Mar 2022)(IBM)
 - [Python + SQL + Tableau: Integrating Python, SQL, and Tableau](https://www.udemy.com/certificate/UC-bdd36dc1-19d0-42e8-8e8e-7b66ca8e36b0/) (Mar 2020)(Udemy)
 - [Analytics: Essential Tools and Methods MicroMaster](https://credentials.edx.org/credentials/6eb5a4245dcd4348ba175be67a07152c) (Dec 2019)(Georgia Tech)
 - [Computing for Data Analysis](https://courses.edx.org/certificates/e771a69c972242ba9a78e06ad3974701) (Dec 2019)(Georgia Tech)
