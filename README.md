@@ -20,9 +20,10 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 	+ [1. NBA Players Analysis - Dissertation for University of Bath Master's of Business Analytics](#1-nba-players-analysis---dissertation-for-university-of-bath-masters-of-business-analytics)
 	+ [2. Food Delivery Platform Analysis - Go-To-Market Strategies](#2-food-delivery-platform-analysis---go-to-market-strategies)
 	+ [3. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
-	+ [4. Smartphone user clustering](#4-smartphone-user-clustering)
+	+ [4. Smartphone User Clustering](#4-smartphone-user-clustering)
 	+ [5. Credit Fraud Detection](#5-credit-fraud-detection)
 - [Small Projects](#small-projects)
+  	+ [1. BuildingA Retail Data Pipeline]()
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -104,7 +105,7 @@ In this section, I will list smaller scale data analytics projects and exercises
 ### 1.	Building a retail data pipeline
 ***Code:*** [`building a retail data pipeline.ipynb`](https://github.com/tonychu805/building-a-retail-data-pipeline/blob/main/building%20a%20retail%20data%20pipeline.ipynb)
 
-**Description:** Created a data pipeline for the analysis of supply and demand around the holiday seasons, and generated a monthly sale out report
+**Description:** Created a data pipeline for the analysis of supply and demand around the holiday seasons, and generated a monthly sale out report.
 
 ## Writings & Notes(Notion)
 
