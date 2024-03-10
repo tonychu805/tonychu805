@@ -1,6 +1,6 @@
 # Tony Chu - Data Analysis Portfolio 
 
-## About
+## I. About
 Hi, I'm Tony! I hold a Master of Science (M.S.) degree in Business Analytics from the University of Bath, 
 and I am a marketing data analytics manager with 5+ data protection and IT infrastructure industry experiences driving 
 business growth and working on high-impact projects on revenue attribution analysis, product optimization, 
@@ -14,7 +14,7 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 * This repository serves to showcase my data science skills and a way to track my progress in Data Analytics and Data Science-related projects.
 </b>
 
-## Table of contents
+## II. Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [1. NBA Players Analysis - Dissertation for University of Bath Master's of Business Analytics](#1-nba-players-analysis---dissertation-for-university-of-bath-masters-of-business-analytics)
@@ -27,7 +27,7 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-## Portfolio Projects
+## III. Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### 1. NBA Players Analysis - Dissertation for University of Bath Master's of Business Analytics
@@ -99,7 +99,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Logistic Regression has the highest predictive power to detect credit card fraud with 95.42% accuracy.
 
-## Small Projects
+## IV. Small Projects
 In this section, I will list smaller scale data analytics projects and exercises.
 
 ### 1.	Building a retail data pipeline
@@ -107,7 +107,7 @@ In this section, I will list smaller scale data analytics projects and exercises
 
 **Description:** Created a data pipeline for the analysis of supply and demand around the holiday seasons, and generated a monthly sale out report.
 
-## Writings & Notes(Notion)
+## V. Writings & Notes(Notion)
 
 ### Statistics
 
@@ -121,7 +121,7 @@ In this section, I will list smaller scale data analytics projects and exercises
 
 
 
-## Certificates
+## VI. Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
 - [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/22580781-6bd7-4c2b-a3bd-7bfdbfdb88d6/public_url) (Mar 2022)(IBM)
 - [Python + SQL + Tableau: Integrating Python, SQL, and Tableau](https://www.udemy.com/certificate/UC-bdd36dc1-19d0-42e8-8e8e-7b66ca8e36b0/) (Mar 2020)(Udemy)
