@@ -24,8 +24,8 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 	+ [5. Credit Fraud Detection](#5-credit-fraud-detection)
 - [Small Projects](#iv-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
-- [Certificates](#v-certificates)
-- [Contacts](#vi-contacts)
+- [Certificates](#vi-certificates)
+- [Contacts](#vii-contacts)
 
 ## III. Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -138,6 +138,6 @@ Here is a list of the data analytics certificates and programs that I have compl
 
 
 
-## Contacts
+## VII. Contacts
 - LinkedIn: [@tonychu805](https://www.linkedin.com/in/tonychu805/)
 - E-mail: tony.chu805@gmail.com
