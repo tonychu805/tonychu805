@@ -23,7 +23,7 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 	+ [4. Smartphone User Clustering](#4-smartphone-user-clustering)
 	+ [5. Credit Fraud Detection](#5-credit-fraud-detection)
 - [Small Projects](#small-projects)
-  	+ [1. Building A Retail Data Pipeline](#1-building-a-retail-data-pipeline)
+  	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
