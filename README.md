@@ -15,17 +15,17 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 </b>
 
 ## II. Table of contents
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
+- [About](#i-about)
+- [Portfolio Projects](#iii-portfolio-projects)
 	+ [1. NBA Players Analysis - Dissertation for University of Bath Master's of Business Analytics](#1-nba-players-analysis---dissertation-for-university-of-bath-masters-of-business-analytics)
 	+ [2. Food Delivery Platform Analysis - Go-To-Market Strategies](#2-food-delivery-platform-analysis---go-to-market-strategies)
 	+ [3. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
 	+ [4. Smartphone User Clustering](#4-smartphone-user-clustering)
 	+ [5. Credit Fraud Detection](#5-credit-fraud-detection)
-- [Small Projects](#small-projects)
+- [Small Projects](#iv-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
-- [Certificates](#certificates)
-- [Contacts](#contacts)
+- [Certificates](#v-certificates)
+- [Contacts](#vi-contacts)
 
 ## III. Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
