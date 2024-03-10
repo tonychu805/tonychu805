@@ -22,6 +22,7 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 	+ [3. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
 	+ [4. Smartphone user clustering](#4-smartphone-user-clustering)
 	+ [5. Credit Fraud Detection](#5-credit-fraud-detection)
+- [Small Projects](#small-projects)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -97,7 +98,8 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Logistic Regression has the highest predictive power to detect credit card fraud with 95.42% accuracy.
 
-
+## Small Projects
+In this section, I will list smaller scale data analytics projects and exercises.
 
 ## Writings & Notes(Notion)
 
