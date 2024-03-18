@@ -17,25 +17,23 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 ## II. Table of contents
 - [About](#i-about)
 - [Portfolio Projects](#iii-portfolio-projects)
-	+ [1. NBA Players Analysis - Dissertation for University of Bath Master's of Business Analytics](#1-nba-players-analysis---dissertation-for-university-of-bath-masters-of-business-analytics)
+	+ [1. NBA Basketball Sports Analytics - Dissertation for University of Bath Master's of Business Analytics](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
 	+ [2. Food Delivery Platform Analysis - Go-To-Market Strategies](#2-food-delivery-platform-analysis---go-to-market-strategies)
 	+ [3. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
 	+ [4. Smartphone User Clustering](#4-smartphone-user-clustering)
 	+ [5. Credit Fraud Detection](#5-credit-fraud-detection)
 - [Small Projects](#iv-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
+  	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
 - [Certificates](#vi-certificates)
 - [Contacts](#vii-contacts)
 
 ## III. Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### 1. NBA Players Analysis - Dissertation for University of Bath Master's of Business Analytics
-**Code:** 
-1. [`Question 1 - three point evolution.ipynb`](https://github.com/tonychu805/NBA_Data_Analysis/blob/main/Question%201%20-%20three%20point%20evolution.ipynb)
-2. [`Question 2 - players categorizations.ipynb`](https://github.com/tonychu805/NBA_Data_Analysis/blob/main/Question%202%20-%20players%20categorizations.ipynb)
-3. [`Question 3 - MVP predictions.ipynb`](https://github.com/tonychu805/NBA_Data_Analysis/blob/main/Question%203%20-%20MVP%20predictions.ipynb)    
-
+### 1. NBA Basketball Sports Analytics - Dissertation for University of Bath Master's of Business Analytics
+**Repository:** [`https://github.com/tonychu805/NBA_Data_Analysis`](https://github.com/tonychu805/NBA_Data_Analysis)
+  
 **Presentation:** [`Research Paper`](https://github.com/tonychu805/NBA_Data_Analysis/blob/main/Dissertation%20-%20Final%20dissertation.pdf)
 
 **Description:** The three datasets curated and used from Kaggle contain players and games statistics from 1950 to the present, MVP candidates and winners over the years, as well as all shot locations of all games. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), measuring statistical factors, hypothesis testing, and implementing a variety of machine learning algorithms mentioned below.
@@ -48,7 +46,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 
 ### 2. Food Delivery Platform Analysis - Go-To-Market Strategies
-**Code:** [`Otter - Case Study Analytics - Tony Chu V2.ipynb`](https://github.com/tonychu805/Food_Delivery_Platforms_Analysis/blob/main/Otter%20-%20Case%20Study%20Analytics%20-%20Tony%20Chu%20V2.ipynb)    
+**Repository:** [`https://github.com/tonychu805/Food_Delivery_Platforms_Analysis`](https://github.com/tonychu805/Food_Delivery_Platforms_Analysis)    
 
 **Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1fcv7K0vxSrBWxyRH99rtU1w3BD2VbsgeYe6uky-mt-I/edit?usp=sharing)
 
@@ -63,7 +61,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** A thorough analysis of the business operations and performances of each platform among SMBs and enterprise customers, and the recommended go-to actions.  
 
 ### 3. Bath Airport Passenger Arrival Simulation and Optimization
-**Code:** [`Graded_Assignment_Develop_and_Run_Simulation_final.ipynb`](https://github.com/tonychu805/bath_airport_simulation/blob/main/Graded_Assignment_Develop_and_Run_Simulation_final.ipynb)    
+**Repository:** [`https://github.com/tonychu805/bath_airport_simulation`](https://github.com/tonychu805/bath_airport_simulation)    
 
 **Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1pn1hxxq-ltGTDHM2UDzShdar2B9wJSWtUuLzLInyePw/edit?usp=sharing)
 
@@ -76,7 +74,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** Constructive and actionable insights of how Bath airport can optimize passenger check-in workflow using the detailed outcome of check-in desks’ average wait time, passport gates’ average wait time, total average wait time, and ratio of total passengers who have less than 1 minute of waiting time at the passport gate. 
 
 ### 4. Smartphone user clustering
-**Code:** [`Data Mining - Graded Assignment.ipynb`](https://github.com/tonychu805/smartphone_user_clustering/blob/main/Data%20Mining%20-%20Graded%20Assignment.ipynb)    
+**Repository:** [`https://github.com/tonychu805/smartphone_user_clustering`](https://github.com/tonychu805/smartphone_user_clustering)    
 
 **Presentation:** [`Smartphone user clustering`](https://github.com/tonychu805/smartphone_user_clustering/blob/main/Data%20Mining%20-%20Graded%20Assignment.docx)
 
@@ -89,7 +87,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** Three naturally occurring clusters are ultimately identified. However, further analyses of each identified cluster will need to be conducted if the management would like to learn more about each of its characteristics.
 
 ### 5. Credit fraud detection
-**Code:** [`fraud_detection.ipynb`](https://github.com/tonychu805/credit_card_fraud_detection/blob/main/fraud_detection.ipynb)
+**Repository:** [`https://github.com/tonychu805/credit_card_fraud_detection`](https://github.com/tonychu805/credit_card_fraud_detection)
 
 **Description:** With a given credit card transaction dataset that has been processed with principal component analysis, the exercise seeks to identify a model that can accurately predict future credict card fraud using machine learning algorithm.
 
@@ -103,7 +101,12 @@ In this section, I will list data analytics projects briefly describing the tech
 In this section, I will list smaller scale data analytics projects and exercises.
 
 ### 1.	Building a retail data pipeline
-**Code:** [`building a retail data pipeline.ipynb`](https://github.com/tonychu805/building-a-retail-data-pipeline/blob/main/building%20a%20retail%20data%20pipeline.ipynb)
+**Repository:** [`https://github.com/tonychu805/building-a-retail-data-pipeline`](https://github.com/tonychu805/building-a-retail-data-pipeline)
+
+**Description:** Created a data pipeline for the analysis of supply and demand around the holiday seasons, and generated a monthly sale out report.
+
+### 2.	Investigating Netflix Movies
+**Repository:** [`https://github.com/tonychu805/investigating-netflix-movies`](https://github.com/tonychu805/investigating-netflix-movies)
 
 **Description:** Created a data pipeline for the analysis of supply and demand around the holiday seasons, and generated a monthly sale out report.
 
