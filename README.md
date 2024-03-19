@@ -110,7 +110,7 @@ In this section, I will list smaller scale data analytics projects and exercises
 
 **Description:** Created a data pipeline for the analysis of supply and demand around the holiday seasons, and generated a monthly sale out report.
 
-## VI. Writings & Notes(Notion)
+## V. Writings & Notes(Notion)
 
 ### Statistics
 
@@ -124,7 +124,7 @@ In this section, I will list smaller scale data analytics projects and exercises
 
 
 
-## VII. Certificates
+## VI. Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
 - [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/22580781-6bd7-4c2b-a3bd-7bfdbfdb88d6/public_url) (Mar 2022)(IBM)
 - [Python + SQL + Tableau: Integrating Python, SQL, and Tableau](https://www.udemy.com/certificate/UC-bdd36dc1-19d0-42e8-8e8e-7b66ca8e36b0/) (Mar 2020)(Udemy)
