@@ -25,6 +25,7 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 - [Small Projects](#iv-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
+  	+ [3. Cybersecurity Threat Analysis](#3cybersecurity-threat-analysis)
 - [Certificates](#vi-certificates)
 - [Contacts](#vii-contacts)
 
@@ -109,6 +110,11 @@ In this section, I will list smaller scale data analytics projects and exercises
 **Repository:** [`https://github.com/tonychu805/investigating-netflix-movies`](https://github.com/tonychu805/investigating-netflix-movies)
 
 **Description:** Created a data pipeline for the analysis of supply and demand around the holiday seasons, and generated a monthly sale out report.
+
+### 3. Cybersecurity Threat Analysis
+**Repository:** [`https://github.com/tonychu805/cybersecurity-threat-analysis`](https://github.com/tonychu805/cybersecurity-threat-analysis)
+
+**Description:** In this project, I delved into the patterns and characteristics of vulnerabilities, their severity, the speed of patching, and temporal trends.
 
 ## V. Writings & Notes(Notion)
 
