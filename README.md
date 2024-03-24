@@ -25,7 +25,7 @@ My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi
 - [Small Projects](#iv-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
-  	+ [3. Cybersecurity Threat Analysis](#3cybersecurity-threat-analysis)
+  	+ [3. Cybersecurity Threat Analysis](#3-cybersecurity-threat-analysis)
 - [Certificates](#vi-certificates)
 - [Contacts](#vii-contacts)
 
