@@ -13,11 +13,12 @@ churn analysis, customer acquisitions, and more.
 ## II. Table of contents
 - [About](#i-about)
 - [Portfolio Projects](#iii-portfolio-projects)
-	+ [1. NBA Basketball Sports Analytics - Dissertation for University of Bath Master's of Business Analytics](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
-	+ [2. Food Delivery Platform Analysis - Go-To-Market Strategies](#2-food-delivery-platform-analysis---go-to-market-strategies)
-	+ [3. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
-	+ [4. Smartphone User Clustering](#4-smartphone-user-clustering)
-	+ [5. Credit Fraud Detection](#5-credit-fraud-detection)
+	+ [1. NBA Basketball Sports Analytics - Clustering in ML](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
+	+ [2. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#2-food-delivery-platform-analysis---go-to-market-strategies)
+ 	+ [3. Spotify Streaming Analysis - Data Pipeline with AWS](	
+	+ [4. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
+	+ [5. Smartphone User Clustering](#4-smartphone-user-clustering)
+	+ [6. Credit Fraud Detection](#5-credit-fraud-detection)
 - [Small Projects](#iv-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
@@ -57,7 +58,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** A thorough analysis of the business operations and performances of each platform among SMBs and enterprise customers, and the recommended go-to actions.  
 
-### 3. Bath Airport Passenger Arrival Simulation and Optimization
+### 3. Spotify Streaming Analysis and Data Engineering with AWS
 **Repository:** [`https://github.com/tonychu805/bath_airport_simulation`](https://github.com/tonychu805/bath_airport_simulation)    
 
 **Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1pn1hxxq-ltGTDHM2UDzShdar2B9wJSWtUuLzLInyePw/edit?usp=sharing)
@@ -70,7 +71,20 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Constructive and actionable insights of how Bath airport can optimize passenger check-in workflow using the detailed outcome of check-in desks’ average wait time, passport gates’ average wait time, total average wait time, and ratio of total passengers who have less than 1 minute of waiting time at the passport gate. 
 
-### 4. Smartphone user clustering
+### 4. Bath Airport Passenger Arrival Simulation and Optimization
+**Repository:** [`https://github.com/tonychu805/bath_airport_simulation`](https://github.com/tonychu805/bath_airport_simulation)    
+
+**Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1pn1hxxq-ltGTDHM2UDzShdar2B9wJSWtUuLzLInyePw/edit?usp=sharing)
+
+**Description:** To answer how many passport control gates are needed to make sure that the waiting time in the passport control stage is less than a minute 98% of the time, should the airport combine the check-in desks of different airlines, and is the current allocation of check-in desks and passport control gates ideal?
+
+**Skills:** Data cleaning, data analysis, descriptive statistics, simulation modeling
+
+**Technology:** Python, Seaborn, Matplotlib, Numpy
+
+**Results:** Constructive and actionable insights of how Bath airport can optimize passenger check-in workflow using the detailed outcome of check-in desks’ average wait time, passport gates’ average wait time, total average wait time, and ratio of total passengers who have less than 1 minute of waiting time at the passport gate. 
+
+### 5. Smartphone user clustering
 **Repository:** [`https://github.com/tonychu805/smartphone_user_clustering`](https://github.com/tonychu805/smartphone_user_clustering)    
 
 **Presentation:** [`Smartphone user clustering`](https://github.com/tonychu805/smartphone_user_clustering/blob/main/Data%20Mining%20-%20Graded%20Assignment.docx)
@@ -83,7 +97,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Three naturally occurring clusters are ultimately identified. However, further analyses of each identified cluster will need to be conducted if the management would like to learn more about each of its characteristics.
 
-### 5. Credit fraud detection
+### 6. Credit fraud detection
 **Repository:** [`https://github.com/tonychu805/credit_card_fraud_detection`](https://github.com/tonychu805/credit_card_fraud_detection)
 
 **Description:** With a given credit card transaction dataset that has been processed with principal component analysis, the exercise seeks to identify a model that can accurately predict future credict card fraud using machine learning algorithm.
