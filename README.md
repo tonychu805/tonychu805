@@ -6,10 +6,6 @@ and I am a marketing data analytics manager with 5+ data protection and IT infra
 business growth and working on high-impact projects on revenue attribution analysis, product optimization, 
 churn analysis, customer acquisitions, and more.
 
-My Data Analytics blog on [LinkedIn](https://www.linkedin.com/in/tonychu805/)
-
-My CV in [pdf](https://drive.google.com/file/d/1P81KU3X1V8isxEm174itsk_tJJQOasAi/view?usp=sharing)
-
 <b>
 * This repository serves to showcase my data science skills and a way to track my progress in Data Analytics and Data Science-related projects.
 </b>
