@@ -61,7 +61,7 @@ In this section, I will list data analytics projects briefly describing the tech
 ### 3. Spotify Streaming Analysis and Data Engineering with AWS
 **Repository:** [`https://github.com/tonychu805/aws-glue-etl`](https://github.com/tonychu805/aws-glue-etl)    
 
-**Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1pn1hxxq-ltGTDHM2UDzShdar2B9wJSWtUuLzLInyePw/edit?usp=sharing)
+**Presentation:** [`Spotify Streaming Activities Dashboard (PDF)`](https://github.com/tonychu805/aws-glue-etl/blob/main/AWS-spotify-datapipeline-dashboard.pdf)
 
 **Architecture:** <img width="1395" alt="AWS-spotify-datapipeline-architecture" src="https://github.com/user-attachments/assets/f25cb7a1-3985-49d0-8c64-c71063dd1072">
 
