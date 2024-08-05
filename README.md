@@ -15,7 +15,7 @@ churn analysis, customer acquisitions, and more.
 - [Portfolio Projects](#iii-portfolio-projects)
 	+ [1. NBA Basketball Sports Analytics - Clustering in ML](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
 	+ [2. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#2-food-delivery-platform-analysis---go-to-market-strategies)
- 	+ [3. Spotify Streaming Analysis - Data Pipeline with AWS](	
+ 	+ [3. Spotify Streaming Analysis - Data Pipeline with AWS](#3-spotify-streaming-analysis-and-data-engineering-with-aws)
 	+ [4. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
 	+ [5. Smartphone User Clustering](#4-smartphone-user-clustering)
 	+ [6. Credit Fraud Detection](#5-credit-fraud-detection)
