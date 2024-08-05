@@ -62,7 +62,8 @@ In this section, I will list data analytics projects briefly describing the tech
 **Repository:** [`https://github.com/tonychu805/bath_airport_simulation`](https://github.com/tonychu805/bath_airport_simulation)    
 
 **Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1pn1hxxq-ltGTDHM2UDzShdar2B9wJSWtUuLzLInyePw/edit?usp=sharing)
-![Uploading Untitled (1).png…]()
+
+**Architecture:**
 
 **Description:** Explore the world of AWS Data Engineering with this project. I leverage AWS services to ingest data, perform ETL processes, run queries, and visualize the findings.
 
