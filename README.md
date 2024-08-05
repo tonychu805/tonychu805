@@ -59,11 +59,11 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** A thorough analysis of the business operations and performances of each platform among SMBs and enterprise customers, and the recommended go-to actions.  
 
 ### 3. Spotify Streaming Analysis and Data Engineering with AWS
-**Repository:** [`https://github.com/tonychu805/bath_airport_simulation`](https://github.com/tonychu805/bath_airport_simulation)    
+**Repository:** [`https://github.com/tonychu805/aws-glue-etl`](https://github.com/tonychu805/aws-glue-etl)    
 
 **Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1pn1hxxq-ltGTDHM2UDzShdar2B9wJSWtUuLzLInyePw/edit?usp=sharing)
 
-**Architecture:**
+**Architecture:** <img width="1395" alt="AWS-spotify-datapipeline-architecture" src="https://github.com/user-attachments/assets/f25cb7a1-3985-49d0-8c64-c71063dd1072">
 
 **Description:** Explore the world of AWS Data Engineering with this project. I leverage AWS services to ingest data, perform ETL processes, run queries, and visualize the findings.
 
