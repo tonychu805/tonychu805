@@ -63,13 +63,13 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1pn1hxxq-ltGTDHM2UDzShdar2B9wJSWtUuLzLInyePw/edit?usp=sharing)
 
-**Description:** To answer how many passport control gates are needed to make sure that the waiting time in the passport control stage is less than a minute 98% of the time, should the airport combine the check-in desks of different airlines, and is the current allocation of check-in desks and passport control gates ideal?
+**Description:** Explore the world of AWS Data Engineering with this project. I leverage AWS services to ingest data, perform ETL processes, run queries, and visualize the findings.
 
-**Skills:** Data cleaning, data analysis, descriptive statistics, simulation modeling
+**Skills:** data ingestion, ETL, IAM, feature engineering, data visualization
 
-**Technology:** Python, Seaborn, Matplotlib, Numpy
+**Technology:** AWS(S3, Athena, Glue, Quicksight) and Python
 
-**Results:** Constructive and actionable insights of how Bath airport can optimize passenger check-in workflow using the detailed outcome of check-in desks’ average wait time, passport gates’ average wait time, total average wait time, and ratio of total passengers who have less than 1 minute of waiting time at the passport gate. 
+**Results:** Constructed a dashboard that is designed to show the marketing and other stakeholders to visualize various streaming activities among Spotify. Stakeholders is able to tell see the number of artists, labels, tracks with explicit language, and the most popular artist at the moment. Some more granular visualization includes the most popular tracks streamed, number of records (by album type) released over time, as well as the number of records included in different album type. Finally, from this chart, the stakeholders can have a holistic view of what the music industry is like at the moment.
 
 ### 4. Bath Airport Passenger Arrival Simulation and Optimization
 **Repository:** [`https://github.com/tonychu805/bath_airport_simulation`](https://github.com/tonychu805/bath_airport_simulation)    
