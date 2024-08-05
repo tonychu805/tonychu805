@@ -112,22 +112,21 @@ In this section, I will list smaller scale data analytics projects and exercises
 
 **Description:** In this project, I delved into the patterns and characteristics of vulnerabilities, their severity, the speed of patching, and temporal trends.
 
-## V. Writings & Notes(Notion)
-
-### Statistics
-
-### SQL
-
-### Data Science
-- Natural Language Processing (NLP)
-	- Universal Information Extraction (UIE)
- 	- Universal Semantic Matching (USM)
-  	- Universal Text Classification (UTC)  
-
-
-
-## VI. Certificates
+## V. Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
+- [Introduction to Git](https://www.datacamp.com/statement-of-accomplishment/course/95e4d09c9a5127c7839885c159ae188f6813cfd6?raw=1) (July 2024)(Datacamp)
+- [Streamlined data ingestion with Python](https://www.datacamp.com/statement-of-accomplishment/course/858312c1f72afb737ba60ebdf7d5bb89fd108aab?raw=1) (June 2024)(Datacamp)
+- [Writing efficient Python code](https://www.datacamp.com/statement-of-accomplishment/course/10398bf7737fef0878d5b26a72cfbfae97509e5f?raw=1) (June 2024)(Datacamp)
+- [Cleaning Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/88aefd54042e2d5ade1956d625bd3b83238ccdaa?raw=1) (June 2024)(Datacamp)
+- [Intermediate importing data in Python](https://www.datacamp.com/statement-of-accomplishment/course/ffbfe5e9b728374eb5048ea9063e31e5a51d4830?raw=1) (June 2024)(Datacamp)
+- [Introduction to importing data in Python](https://www.datacamp.com/statement-of-accomplishment/course/0b930ab45acfc5e8c9924fc5990aefac92898d9e?raw=1) (June 2024)(Datacamp)
+- [Intermediate Python for developers](https://www.datacamp.com/statement-of-accomplishment/course/4b49c3da62318e40a7da8e50f5d561691798e44e?raw=1) (June 2024)(Datacamp)
+- [Introduction to Python for developers](https://www.datacamp.com/statement-of-accomplishment/course/4edbc50773418dd73ba390048e63343913000c49?raw=1) (June 2024)(Datacamp)
+- [Understanding Cloud Computing](https://www.datacamp.com/statement-of-accomplishment/course/6a64174eb9052c1e85e0dc0f93bab63f1889ecaf?raw=1) (June 2024)(Datacamp)
+- [Associate Data Analyst](https://www.datacamp.com/statement-of-accomplishment/track/a7711e752f6aa5f43c0a8e276f44296897e12d2b?raw=1) (May 2024)(Datacamp)
+- [Understanding Data Visualization](https://www.datacamp.com/statement-of-accomplishment/course/b756afe279ad16e20ed40e37c4a66573d593f440?raw=1) (May 2024)(Datacamp)
+- [Functions for Manipulating Data in PostgreSQL](https://www.datacamp.com/statement-of-accomplishment/course/0ae6a0684b420d5434e88b7e0f7399d7a5a51671?raw=1) (May 2024)(Datacamp)
+- [PostgreSQL Summary Stats and Window Functions](https://www.datacamp.com/statement-of-accomplishment/course/b13d67e4e108b54cf8c35f905e2637df39287291?raw=1) (May 2024)(Datacamp)
 - [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/22580781-6bd7-4c2b-a3bd-7bfdbfdb88d6/public_url) (Mar 2022)(IBM)
 - [Python + SQL + Tableau: Integrating Python, SQL, and Tableau](https://www.udemy.com/certificate/UC-bdd36dc1-19d0-42e8-8e8e-7b66ca8e36b0/) (Mar 2020)(Udemy)
 - [Analytics: Essential Tools and Methods MicroMaster](https://credentials.edx.org/credentials/6eb5a4245dcd4348ba175be67a07152c) (Dec 2019)(Georgia Tech)
