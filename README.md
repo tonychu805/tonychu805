@@ -50,6 +50,7 @@ churn analysis, customer acquisitions, and more.
 **Technology:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn, glob, os
 
 **Results:** 
+![image](https://github.com/user-attachments/assets/72696e87-064e-44ff-93e0-a45adbba4ff0)
 - Windows is identified as the most affected product with 311 reported vulnerabilities.
 - Network-Related vectors accounted for 73.4% of vulnerabilities.
 - 34% of the reported incidents were critical, posing severe risks.
