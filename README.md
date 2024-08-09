@@ -13,14 +13,15 @@ churn analysis, customer acquisitions, and more.
 ## II. Table of contents
 - [About](#i-about)
 - [Cybersecurity & Fraud Prevention Projects](#iii-cybersecurity-and-fraud-prevention-projects)
-  	+ [1. Cybersecurity Threat Analysis](#1-cybersecurity-threat-analysis)
+ 	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
+  	+ [2. Cybersecurity Threat Analysis](#1-cybersecurity-threat-analysis)
 - [Portfolio Projects](#iv-portfolio-projects)
 	+ [1. NBA Basketball Sports Analytics - Clustering in ML](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
 	+ [2. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#2-food-delivery-platform-analysis---go-to-market-strategies)
  	+ [3. Spotify Streaming Analysis - Data Pipeline with AWS](#3-spotify-streaming-analysis-and-data-engineering-with-aws)
 	+ [4. Bath Airport Passenger Arrival Simulation and Optimization](#4-bath-airport-passenger-arrival-simulation-and-optimization)
 	+ [5. Smartphone User Clustering](#5-smartphone-user-clustering)
-	+ [6. Credit Fraud Detection](#6-credit-fraud-detection)
+	
 - [Small Projects](#v-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
@@ -30,7 +31,18 @@ churn analysis, customer acquisitions, and more.
 
 ## III. Cybersecurity and Fraud Prevention Projects
 
-### 1. Cybersecurity Threat Analysis
+### 1. Credit fraud detection
+**Repository:** [`https://github.com/tonychu805/credit_card_fraud_detection`](https://github.com/tonychu805/credit_card_fraud_detection)
+
+**Description:** With a given credit card transaction dataset that has been processed with principal component analysis, the exercise seeks to identify a model that can accurately predict future credict card fraud using machine learning algorithm.
+
+**Skills:** Data cleaning, description analysis, correlation analysis, machine learning
+
+**Technology:** Python, sklearn, Pandas, Numpy, Seaborn, Matplotlib, Logistic Regression, SVM, Random Forest
+
+**Results:** Logistic Regression has the highest predictive power to detect credit card fraud with 95.42% accuracy.
+
+### 2. Cybersecurity Threat Analysis
 **Repository:** [`https://github.com/tonychu805/cybersecurity-threat-analysis`](https://github.com/tonychu805/cybersecurity-threat-analysis)
 
 **Description:** In this project, I delved into the patterns and characteristics of vulnerabilities, their severity, the speed of patching, and temporal trends.
@@ -108,16 +120,6 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Three naturally occurring clusters are ultimately identified. However, further analyses of each identified cluster will need to be conducted if the management would like to learn more about each of its characteristics.
 
-### 6. Credit fraud detection
-**Repository:** [`https://github.com/tonychu805/credit_card_fraud_detection`](https://github.com/tonychu805/credit_card_fraud_detection)
-
-**Description:** With a given credit card transaction dataset that has been processed with principal component analysis, the exercise seeks to identify a model that can accurately predict future credict card fraud using machine learning algorithm.
-
-**Skills:** Data cleaning, description analysis, correlation analysis, machine learning
-
-**Technology:** Python, sklearn, Pandas, Numpy, Seaborn, Matplotlib, Logistic Regression, SVM, Random Forest
-
-**Results:** Logistic Regression has the highest predictive power to detect credit card fraud with 95.42% accuracy.
 
 ## V. Small Projects
 In this section, I will list smaller scale data analytics projects and exercises.
