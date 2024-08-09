@@ -47,6 +47,13 @@ churn analysis, customer acquisitions, and more.
 
 **Description:** In this project, I delved into the patterns and characteristics of vulnerabilities, their severity, the speed of patching, and temporal trends.
 
+**Technology:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn, glob, os
+
+**Results:** 
+- Windows is identified as the most affected product with 311 reported vulnerabilities.
+- Network-Related vectors accounted for 73.4% of vulnerabilities.
+- 34% of the reported incidents were critical, posing severe risks.
+
 ## IV. General Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
