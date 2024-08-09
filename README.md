@@ -14,7 +14,7 @@ churn analysis, customer acquisitions, and more.
 - [About](#i-about)
 - [Cybersecurity & Fraud Prevention Projects](#iii-cybersecurity-and-fraud-prevention-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
-  	+ [2. Cybersecurity Threat Analysis](#1-cybersecurity-threat-analysis)
+  	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
 - [Portfolio Projects](#iv-portfolio-projects)
 	+ [1. NBA Basketball Sports Analytics - Clustering in ML](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
 	+ [2. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#2-food-delivery-platform-analysis---go-to-market-strategies)
