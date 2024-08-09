@@ -12,21 +12,30 @@ churn analysis, customer acquisitions, and more.
 
 ## II. Table of contents
 - [About](#i-about)
-- [Portfolio Projects](#iii-portfolio-projects)
+- [Cybersecurity & Fraud Prevention](#iii-cybersecurity-and-fraud-prevention)
+  	+ [1. Cybersecurity Threat Analysis](#1-cybersecurity-threat-analysis)
+- [Portfolio Projects](#iv-portfolio-projects)
 	+ [1. NBA Basketball Sports Analytics - Clustering in ML](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
 	+ [2. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#2-food-delivery-platform-analysis---go-to-market-strategies)
  	+ [3. Spotify Streaming Analysis - Data Pipeline with AWS](#3-spotify-streaming-analysis-and-data-engineering-with-aws)
 	+ [4. Bath Airport Passenger Arrival Simulation and Optimization](#4-bath-airport-passenger-arrival-simulation-and-optimization)
 	+ [5. Smartphone User Clustering](#5-smartphone-user-clustering)
 	+ [6. Credit Fraud Detection](#6-credit-fraud-detection)
-- [Small Projects](#iv-small-projects)
+- [Small Projects](#v-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
-  	+ [3. Cybersecurity Threat Analysis](#3-cybersecurity-threat-analysis)
+
 - [Certificates](#vi-certificates)
 - [Contacts](#vii-contacts)
 
-## III. Portfolio Projects
+## III. Cybersecurity and Fraud Prevention
+
+### 1. Cybersecurity Threat Analysis
+**Repository:** [`https://github.com/tonychu805/cybersecurity-threat-analysis`](https://github.com/tonychu805/cybersecurity-threat-analysis)
+
+**Description:** In this project, I delved into the patterns and characteristics of vulnerabilities, their severity, the speed of patching, and temporal trends.
+
+## IV. General Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### 1. NBA Basketball Sports Analytics - Dissertation for University of Bath Master's of Business Analytics
@@ -110,7 +119,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Logistic Regression has the highest predictive power to detect credit card fraud with 95.42% accuracy.
 
-## IV. Small Projects
+## V. Small Projects
 In this section, I will list smaller scale data analytics projects and exercises.
 
 ### 1.	Building a retail data pipeline
@@ -123,12 +132,7 @@ In this section, I will list smaller scale data analytics projects and exercises
 
 **Description:** Created a data pipeline for the analysis of supply and demand around the holiday seasons, and generated a monthly sale out report.
 
-### 3. Cybersecurity Threat Analysis
-**Repository:** [`https://github.com/tonychu805/cybersecurity-threat-analysis`](https://github.com/tonychu805/cybersecurity-threat-analysis)
-
-**Description:** In this project, I delved into the patterns and characteristics of vulnerabilities, their severity, the speed of patching, and temporal trends.
-
-## V. Certificates
+## VI. Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
 - [Introduction to Git](https://www.datacamp.com/statement-of-accomplishment/course/95e4d09c9a5127c7839885c159ae188f6813cfd6?raw=1) (July 2024)(Datacamp)
 - [Streamlined data ingestion with Python](https://www.datacamp.com/statement-of-accomplishment/course/858312c1f72afb737ba60ebdf7d5bb89fd108aab?raw=1) (June 2024)(Datacamp)
