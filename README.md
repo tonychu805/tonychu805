@@ -12,7 +12,7 @@ churn analysis, customer acquisitions, and more.
 
 ## II. Table of contents
 - [About](#i-about)
-- [Cybersecurity & Fraud Prevention](#iii-cybersecurity-and-fraud-prevention)
+- [Cybersecurity & Fraud Prevention Projects](#iii-cybersecurity-and-fraud-prevention-projects)
   	+ [1. Cybersecurity Threat Analysis](#1-cybersecurity-threat-analysis)
 - [Portfolio Projects](#iv-portfolio-projects)
 	+ [1. NBA Basketball Sports Analytics - Clustering in ML](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
@@ -28,7 +28,7 @@ churn analysis, customer acquisitions, and more.
 - [Certificates](#vi-certificates)
 - [Contacts](#vii-contacts)
 
-## III. Cybersecurity and Fraud Prevention
+## III. Cybersecurity and Fraud Prevention Projects
 
 ### 1. Cybersecurity Threat Analysis
 **Repository:** [`https://github.com/tonychu805/cybersecurity-threat-analysis`](https://github.com/tonychu805/cybersecurity-threat-analysis)
