@@ -115,19 +115,16 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Constructive and actionable insights of how Bath airport can optimize passenger check-in workflow using the detailed outcome of check-in desks’ average wait time, passport gates’ average wait time, total average wait time, and ratio of total passengers who have less than 1 minute of waiting time at the passport gate. 
 
-### 5. Smartphone user clustering
-**Repository:** [`https://github.com/tonychu805/smartphone_user_clustering`](https://github.com/tonychu805/smartphone_user_clustering)    
+### 5. Car Insurance Claim Model
+**Repository:** [`https://github.com/tonychu805/datacamp_car_insurance`](https://github.com/tonychu805/datacamp_car_insurance)    
 
-**Presentation:** [`Smartphone user clustering`](https://github.com/tonychu805/smartphone_user_clustering/blob/main/Data%20Mining%20-%20Graded%20Assignment.docx)
+**Description:** On the Road car insurance wants to build a model to predict whether a customer will make a claim on their insurance during the policy period. Identify the single feature that results in the best performing model, as measured by accuracy.
 
-**Description:** A handful of exploratory analyses such as identifying missing values and outliers, and exploring correlations of each variable, as well as clustering analyses including partitional clustering, hierarchical clustering, and soft (fuzzy) clustering techniques, are performed among different parameters using R language, to classify, label, or group data points contained within the data set.
+**Skills:** Data cleaning, data analysis, standardization, logistic regression,
 
-**Skills:** Data cleaning, data analysis, descriptive statistics, simulation modeling
+**Technology:** Pandas, Numpy, Scikit-learn, Seaborn, Scipy
 
-**Technology:** R, dplyr, magrittr, ggplot2, tidyverse, finalfit, hmisc, pastecs, psych, corrplot, discriminer, base, reshape2, resample, dendextend, fpc, dbscan
-
-**Results:** Three naturally occurring clusters are ultimately identified. However, further analyses of each identified cluster will need to be conducted if the management would like to learn more about each of its characteristics.
-
+**Results:** The model has an accuracy of 84.53% and 90.49% in AUC-ROC, indicating excellent predictive power. The AUC-ROC of 0.9049 suggests the model has very strong discriminative ability between classes. Moreover, the model performs well on both claim and non-claim, showcasing a more balanced performance.
 
 ## V. Small Projects
 In this section, I will list smaller scale data analytics projects and exercises.
@@ -141,6 +138,11 @@ In this section, I will list smaller scale data analytics projects and exercises
 **Repository:** [`https://github.com/tonychu805/investigating-netflix-movies`](https://github.com/tonychu805/investigating-netflix-movies)
 
 **Description:** Created a data pipeline for the analysis of supply and demand around the holiday seasons, and generated a monthly sale out report.
+
+### 3. Smartphone user clustering
+**Repository:** [`https://github.com/tonychu805/smartphone_user_clustering`](https://github.com/tonychu805/smartphone_user_clustering)   
+
+**Description:** A handful of exploratory analyses such as identifying missing values and outliers, and exploring correlations of each variable, as well as clustering analyses including partitional clustering, hierarchical clustering, and soft (fuzzy) clustering techniques, are performed among different parameters using R language, to classify, label, or group data points contained within the data set.
 
 ## VI. Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
