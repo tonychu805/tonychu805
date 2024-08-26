@@ -20,12 +20,12 @@ churn analysis, customer acquisitions, and more.
 	+ [2. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#2-food-delivery-platform-analysis---go-to-market-strategies)
  	+ [3. Spotify Streaming Analysis - Data Pipeline with AWS](#3-spotify-streaming-analysis-and-data-engineering-with-aws)
 	+ [4. Bath Airport Passenger Arrival Simulation and Optimization](#4-bath-airport-passenger-arrival-simulation-and-optimization)
-	+ [5. Smartphone User Clustering](#5-smartphone-user-clustering)
+	+ [5. Car Insurance Claim Model](#5-car-insurance-claim-model)
 	
 - [Small Projects](#v-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
-
+	+ [3. Smartphone User Clustering](#3-smartphone-user-clustering)
 - [Certificates](#vi-certificates)
 - [Contacts](#vii-contacts)
 
@@ -124,10 +124,10 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Technology:** Pandas, Numpy, Scikit-learn, Seaborn, Scipy
 
-**Results:** The model has an accuracy of 84.53% and 90.49% in AUC-ROC, indicating excellent predictive power. The AUC-ROC of 0.9049 suggests the model has very strong discriminative ability between classes. Moreover, the model performs well on both claim and non-claim, showcasing a more balanced performance.
+**Results:** The model's accuracy is 84.53% and 90.49% in AUC-ROC, indicating excellent predictive power. The AUC-ROC of 0.9049 suggests the model has very strong discriminative ability between classes. Moreover, the model performs well on both claim and non-claim, showcasing a more balanced performance.
 
 ## V. Small Projects
-In this section, I will list smaller scale data analytics projects and exercises.
+In this section, I will list smaller-scale data analytics projects and exercises.
 
 ### 1.	Building a retail data pipeline
 **Repository:** [`https://github.com/tonychu805/building-a-retail-data-pipeline`](https://github.com/tonychu805/building-a-retail-data-pipeline)
