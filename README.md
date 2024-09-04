@@ -15,6 +15,7 @@ churn analysis, customer acquisitions, and more.
 - [Cybersecurity & Fraud Prevention Projects](#iii-cybersecurity-and-fraud-prevention-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
+  	+ [3. Microsoft Security Incident Prediction](#3-microsoft-security-incident-prediction)
 - [General Projects](#iv-general-projects)
 	+ [1. NBA Basketball Sports Analytics - Clustering in ML](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
 	+ [2. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#2-food-delivery-platform-analysis---go-to-market-strategies)
@@ -54,6 +55,29 @@ churn analysis, customer acquisitions, and more.
 - Windows is identified as the most affected product with 311 reported vulnerabilities.
 - Network-Related vectors accounted for 73.4% of vulnerabilities.
 - 34% of the reported incidents were critical, posing severe risks.
+
+### 3. Microsoft Security Incident Prediction
+**Repository:** [`https://github.com/tonychu805/Microsoft_Security_Incident_Prediction`](https://github.com/tonychu805/Microsoft_Security_Incident_Prediction)
+
+**Description:** The goal is to build a predictive model for predicting cybersecurity incident outcomes. The target value for this dataset is called "IncidentGrade", which contains values true positive (TP), benign positive (BP), and false positive (FP)—based on historical data.
+
+**Skills:** Data cleaning, data encoding, standardization, significant test (chi-square, anova, mutual information), machine learning, cross validation
+
+**Technology:** Pandas, Numpy, Matplotlib, Sklearn, RandomForestClassifier, GradientBoostingClassifier, xgboost, lightgbm, catboost
+
+**Results:** 
+
+| Model         | Precision    | Recall       | F1-Score     | Support     | Accuracy    |
+|---------------|--------------|--------------|--------------|-------------|-------------|
+| RandomForest  | 0.686257     | 0.67100      | 0.649266     | 20000.0     | 0.67100     |
+| GradientBoost | 0.699903     | 0.66380      | 0.624061     | 20000.0     | 0.66380     |
+| XGBoost       | 0.703958     | 0.67885      | 0.669383     | 20000.0     | 0.67885     |
+| LightGBM      | 0.724249     | 0.69375      | 0.669625     | 20000.0     | 0.69375     |
+| CatBoost      | 0.701282     | 0.68900      | 0.669541     | 20000.0     | 0.68900     |
+
+- LightGBM and XGBoost are the two standout models for predicting cybersecurity incident outcomes. LightGBM excels in precision and recall, making it highly effective for reducing false positives and detecting true incidents, while XGBoost is the most consistent performer across different datasets.
+- CatBoost is a strong alternative that balances high accuracy and low variability.
+- RandomForest and GradientBoost could be considered for specific scenarios, but they are less suited for tasks requiring a balance between high precision and recall.
 
 ## IV. General Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
