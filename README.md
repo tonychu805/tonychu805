@@ -67,7 +67,7 @@ churn analysis, customer acquisitions, and more.
 
 **Results:** 
 
-- LightGBM and XGBoost are the two standout models for predicting cybersecurity incident outcomes. LightGBM excels in precision and recall, making it highly effective for reducing false positives and detecting true incidents, while XGBoost is the most consistent performer across different datasets.
+- LightGBM and XGBoost are the two standout models for predicting cybersecurity incident outcomes. LightGBM excels in precision (72.4%) and recall (69.4%), making it highly effective for reducing false positives and detecting true incidents, while XGBoost is the most consistent performer across different datasets.
 - CatBoost is a strong alternative that balances high accuracy and low variability.
 - RandomForest and GradientBoost could be considered for specific scenarios, but they are less suited for tasks requiring a balance between high precision and recall.
 
