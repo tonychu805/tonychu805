@@ -1,4 +1,4 @@
-# Tony Chu - Data Analysis Portfolio 
+# Tony Chu - Data Science Portfolio 
 
 ## I. About
 Hi, I'm Tony! I hold a Master of Science (M.S.) degree in Business Analytics from the University of Bath, 
