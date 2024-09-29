@@ -14,7 +14,10 @@ I'm currently open to help out data science / ML projects
 * This repository serves to showcase my data science skills and a way to track my progress in Data Analytics and Data Science-related projects.
 </b>
 
-## II. Table of contents
+## II. 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+## III. Table of contents
 - [About](#i-about)
 - [Cybersecurity & Fraud Prevention Projects](#iii-cybersecurity-and-fraud-prevention-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
@@ -34,7 +37,7 @@ I'm currently open to help out data science / ML projects
 - [Certificates](#vi-certificates)
 - [Contacts](#vii-contacts)
 
-## III. Cybersecurity and Fraud Prevention Projects
+## IV. Cybersecurity and Fraud Prevention Projects
 
 ### 1. Credit fraud detection
 **Repository:** [`https://github.com/tonychu805/credit_card_fraud_detection`](https://github.com/tonychu805/credit_card_fraud_detection)
@@ -83,7 +86,7 @@ I'm currently open to help out data science / ML projects
 | LightGBM      | 0.724249     | 0.69375      | 0.669625     | 20000.0     | 0.69375     |
 | CatBoost      | 0.701282     | 0.68900      | 0.669541     | 20000.0     | 0.68900     |
 
-## IV. General Projects
+## V. General Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### 1. NBA Basketball Sports Analytics - Dissertation for University of Bath Master's of Business Analytics
@@ -154,7 +157,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** The model's accuracy is 84.53% and 90.49% in AUC-ROC, indicating excellent predictive power. The AUC-ROC of 0.9049 suggests the model has very strong discriminative ability between classes. Moreover, the model performs well on both claim and non-claim, showcasing a more balanced performance.
 
-## V. Small Projects
+## VI. Small Projects
 In this section, I will list smaller-scale data analytics projects and exercises.
 
 ### 1.	Building a retail data pipeline
@@ -172,7 +175,7 @@ In this section, I will list smaller-scale data analytics projects and exercises
 
 **Description:** A handful of exploratory analyses such as identifying missing values and outliers, and exploring correlations of each variable, as well as clustering analyses including partitional clustering, hierarchical clustering, and soft (fuzzy) clustering techniques, are performed among different parameters using R language, to classify, label, or group data points contained within the data set.
 
-## VI. Certificates
+## VII. Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
 - [Introduction to Git](https://www.datacamp.com/statement-of-accomplishment/course/95e4d09c9a5127c7839885c159ae188f6813cfd6?raw=1) (July 2024)(Datacamp)
 - [Streamlined data ingestion with Python](https://www.datacamp.com/statement-of-accomplishment/course/858312c1f72afb737ba60ebdf7d5bb89fd108aab?raw=1) (June 2024)(Datacamp)
@@ -199,9 +202,6 @@ Here is a list of the data analytics certificates and programs that I have compl
 - [Intro to Programming Nanodegree](https://confirm.udacity.com/WM9YRAFX) (Sep 2016)(Udacity)
 - [SQL for Beginner Data Analysis](https://udemy-certificate.s3.amazonaws.com/pdf/UC-7OUXO2ZH.pdf) (Jul 2016)(Udemy)
 - [Big Data and Hadoop Essentials](https://www.udemy.com/certificate/UC-IX3PT0YD/) (May 2016)(Udemy)
-
-## VII. 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## VIII. 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tonychu805&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
