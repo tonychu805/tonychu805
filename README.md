@@ -19,7 +19,7 @@ I'm currently open to help out data science / ML projects
 
 ## III. Table of contents
 - [About](#i-about)
-- [Tech Stack](
+- [Tech Stack](#ii--tech-stack)
 - [Cybersecurity & Fraud Prevention Projects](#iii-cybersecurity-and-fraud-prevention-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
@@ -30,7 +30,6 @@ I'm currently open to help out data science / ML projects
  	+ [3. Spotify Streaming Analysis - Data Pipeline with AWS](#3-spotify-streaming-analysis-and-data-engineering-with-aws)
 	+ [4. Bath Airport Passenger Arrival Simulation and Optimization](#4-bath-airport-passenger-arrival-simulation-and-optimization)
 	+ [5. Car Insurance Claim Model](#5-car-insurance-claim-model)
-	
 - [Small Projects](#v-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
