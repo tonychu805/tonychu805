@@ -20,24 +20,25 @@ I'm currently open to help out data science / ML projects
 ## III. Table of contents
 - [About](#i-about)
 - [Tech Stack](#ii--tech-stack)
-- [Projects](iv-projects)
+- [Projects](iv-analytics/ML-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
   	+ [3. Microsoft Security Incident Prediction](#3-microsoft-security-incident-prediction)
 	+ [4. NBA Basketball Sports Analytics - Clustering in ML](#4-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
 	+ [5. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#5-food-delivery-platform-analysis---go-to-market-strategies)
  	+ [6. Spotify Streaming Analysis - Data Pipeline with AWS](#6-spotify-streaming-analysis-and-data-engineering-with-aws)
-	+ [7. Bath Airport Passenger Arrival Simulation and Optimization](#7-bath-airport-passenger-arrival-simulation-and-optimization)
-	+ [8. Car Insurance Claim Model](#8-car-insurance-claim-model)
+	+ [7. Car Insurance Claim Model](#7-car-insurance-claim-model)
+	+ [8. Smartphone User Clustering](#8-smartphone-user-clustering)
 - [Small Projects](#vi-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
-	+ [3. Smartphone User Clustering](#3-smartphone-user-clustering)
+  	+ [3. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
+	
 - [Certificates](#vii-certificates)
 - [Github Stats](#viii--github-stats)
 - [Contacts](#ix-contacts)
 
-## IV. Projects
+## IV. Analytics/ML Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### 1. Credit fraud detection
@@ -131,20 +132,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Constructed a dashboard that is designed to show the marketing and other stakeholders to visualize various streaming activities among Spotify. Stakeholders is able to tell see the number of artists, labels, tracks with explicit language, and the most popular artist at the moment. Some more granular visualization includes the most popular tracks streamed, number of records (by album type) released over time, as well as the number of records included in different album type. Finally, from this chart, the stakeholders can have a holistic view of what the music industry is like at the moment.
 
-### 7. Bath Airport Passenger Arrival Simulation and Optimization
-**Repository:** [`https://github.com/tonychu805/bath_airport_simulation`](https://github.com/tonychu805/bath_airport_simulation)    
-
-**Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1pn1hxxq-ltGTDHM2UDzShdar2B9wJSWtUuLzLInyePw/edit?usp=sharing)
-
-**Description:** To answer how many passport control gates are needed to make sure that the waiting time in the passport control stage is less than a minute 98% of the time, should the airport combine the check-in desks of different airlines, and is the current allocation of check-in desks and passport control gates ideal?
-
-**Skills:** Data cleaning, data analysis, descriptive statistics, simulation modeling
-
-**Technology:** Python, Seaborn, Matplotlib, Numpy
-
-**Results:** Constructive and actionable insights of how Bath airport can optimize passenger check-in workflow using the detailed outcome of check-in desks’ average wait time, passport gates’ average wait time, total average wait time, and ratio of total passengers who have less than 1 minute of waiting time at the passport gate. 
-
-### 8. Car Insurance Claim Model
+### 7. Car Insurance Claim Model
 **Repository:** [`https://github.com/tonychu805/datacamp_car_insurance`](https://github.com/tonychu805/datacamp_car_insurance)    
 
 **Description:** On the Road car insurance wants to build a model to predict whether a customer will make a claim on their insurance during the policy period. Identify the single feature that results in the best performing model, as measured by accuracy.
@@ -155,7 +143,12 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** The model's accuracy is 84.53% and 90.49% in AUC-ROC, indicating excellent predictive power. The AUC-ROC of 0.9049 suggests the model has very strong discriminative ability between classes. Moreover, the model performs well on both claim and non-claim, showcasing a more balanced performance.
 
-## VI. Small Projects
+### 8. Smartphone user clustering
+**Repository:** [`https://github.com/tonychu805/smartphone_user_clustering`](https://github.com/tonychu805/smartphone_user_clustering)   
+
+**Description:** A handful of exploratory analyses such as identifying missing values and outliers, and exploring correlations of each variable, as well as clustering analyses including partitional clustering, hierarchical clustering, and soft (fuzzy) clustering techniques, are performed among different parameters using R language, to classify, label, or group data points contained within the data set.
+
+## VI. Data Engineering Projects
 In this section, I will list smaller-scale data analytics projects and exercises.
 
 ### 1.	Building a retail data pipeline
@@ -168,10 +161,18 @@ In this section, I will list smaller-scale data analytics projects and exercises
 
 **Description:** Created a data pipeline for the analysis of supply and demand around the holiday seasons, and generated a monthly sale out report.
 
-### 3. Smartphone user clustering
-**Repository:** [`https://github.com/tonychu805/smartphone_user_clustering`](https://github.com/tonychu805/smartphone_user_clustering)   
+### 3. Bath Airport Passenger Arrival Simulation and Optimization
+**Repository:** [`https://github.com/tonychu805/bath_airport_simulation`](https://github.com/tonychu805/bath_airport_simulation)    
 
-**Description:** A handful of exploratory analyses such as identifying missing values and outliers, and exploring correlations of each variable, as well as clustering analyses including partitional clustering, hierarchical clustering, and soft (fuzzy) clustering techniques, are performed among different parameters using R language, to classify, label, or group data points contained within the data set.
+**Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1pn1hxxq-ltGTDHM2UDzShdar2B9wJSWtUuLzLInyePw/edit?usp=sharing)
+
+**Description:** To answer how many passport control gates are needed to make sure that the waiting time in the passport control stage is less than a minute 98% of the time, should the airport combine the check-in desks of different airlines, and is the current allocation of check-in desks and passport control gates ideal?
+
+**Skills:** Data cleaning, data analysis, descriptive statistics, simulation modeling
+
+**Technology:** Python, Seaborn, Matplotlib, Numpy
+
+**Results:** Constructive and actionable insights of how Bath airport can optimize passenger check-in workflow using the detailed outcome of check-in desks’ average wait time, passport gates’ average wait time, total average wait time, and ratio of total passengers who have less than 1 minute of waiting time at the passport gate. 
 
 ## VII. Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
