@@ -35,7 +35,7 @@ I'm currently open to help out data science / ML projects
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
 	+ [3. Smartphone User Clustering](#3-smartphone-user-clustering)
 - [Certificates](#vii-certificates)
-- [Github Stats](#viii-github-stats)
+- [Github Stats](#viii--github-stats)
 - [Contacts](#ix-contacts)
 
 ## IV. Cybersecurity and Fraud Prevention Projects
