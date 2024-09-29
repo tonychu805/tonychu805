@@ -19,6 +19,7 @@ I'm currently open to help out data science / ML projects
 
 ## III. Table of contents
 - [About](#i-about)
+- [Tech Stack](
 - [Cybersecurity & Fraud Prevention Projects](#iii-cybersecurity-and-fraud-prevention-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
