@@ -20,16 +20,15 @@ I'm currently open to help out data science / ML projects
 ## III. Table of contents
 - [About](#i-about)
 - [Tech Stack](#ii--tech-stack)
-- [Cybersecurity & Fraud Prevention Projects](iv-cybersecurity-and-fraud-prevention-projects)
+- [Projects](iv-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
   	+ [3. Microsoft Security Incident Prediction](#3-microsoft-security-incident-prediction)
-- [General Projects](#v-general-projects)
-	+ [1. NBA Basketball Sports Analytics - Clustering in ML](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
-	+ [2. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#2-food-delivery-platform-analysis---go-to-market-strategies)
- 	+ [3. Spotify Streaming Analysis - Data Pipeline with AWS](#3-spotify-streaming-analysis-and-data-engineering-with-aws)
-	+ [4. Bath Airport Passenger Arrival Simulation and Optimization](#4-bath-airport-passenger-arrival-simulation-and-optimization)
-	+ [5. Car Insurance Claim Model](#5-car-insurance-claim-model)
+	+ [4. NBA Basketball Sports Analytics - Clustering in ML](#4-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
+	+ [5. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#5-food-delivery-platform-analysis---go-to-market-strategies)
+ 	+ [6. Spotify Streaming Analysis - Data Pipeline with AWS](#6-spotify-streaming-analysis-and-data-engineering-with-aws)
+	+ [7. Bath Airport Passenger Arrival Simulation and Optimization](#7-bath-airport-passenger-arrival-simulation-and-optimization)
+	+ [8. Car Insurance Claim Model](#8-car-insurance-claim-model)
 - [Small Projects](#vi-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
@@ -38,7 +37,8 @@ I'm currently open to help out data science / ML projects
 - [Github Stats](#viii--github-stats)
 - [Contacts](#ix-contacts)
 
-## IV. Cybersecurity and Fraud Prevention Projects
+## IV. Projects
+In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### 1. Credit fraud detection
 **Repository:** [`https://github.com/tonychu805/credit_card_fraud_detection`](https://github.com/tonychu805/credit_card_fraud_detection)
@@ -87,10 +87,7 @@ I'm currently open to help out data science / ML projects
 | LightGBM      | 0.724249     | 0.69375      | 0.669625     | 20000.0     | 0.69375     |
 | CatBoost      | 0.701282     | 0.68900      | 0.669541     | 20000.0     | 0.68900     |
 
-## V. General Projects
-In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
-
-### 1. NBA Basketball Sports Analytics - Dissertation for University of Bath Master's of Business Analytics
+### 4. NBA Basketball Sports Analytics - Dissertation for University of Bath Master's of Business Analytics
 **Repository:** [`https://github.com/tonychu805/NBA_Data_Analysis`](https://github.com/tonychu805/NBA_Data_Analysis)
   
 **Presentation:** [`Research Paper`](https://github.com/tonychu805/NBA_Data_Analysis/blob/main/Dissertation%20-%20Final%20dissertation.pdf)
@@ -104,7 +101,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** A deep dive into the impact of three-point shots on the NBA game, user type based on analytics, and prediction of NBA MVPs.  
 
 
-### 2. Food Delivery Platform Analysis - Go-To-Market Strategies
+### 5. Food Delivery Platform Analysis - Go-To-Market Strategies
 **Repository:** [`https://github.com/tonychu805/Food_Delivery_Platforms_Analysis`](https://github.com/tonychu805/Food_Delivery_Platforms_Analysis)    
 
 **Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1fcv7K0vxSrBWxyRH99rtU1w3BD2VbsgeYe6uky-mt-I/edit?usp=sharing)
@@ -119,7 +116,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** A thorough analysis of the business operations and performances of each platform among SMBs and enterprise customers, and the recommended go-to actions.  
 
-### 3. Spotify Streaming Analysis and Data Engineering with AWS
+### 6. Spotify Streaming Analysis and Data Engineering with AWS
 **Repository:** [`https://github.com/tonychu805/aws-glue-etl`](https://github.com/tonychu805/aws-glue-etl)    
 
 **Presentation:** [`Spotify Streaming Activities Dashboard (PDF)`](https://github.com/tonychu805/aws-glue-etl/blob/main/AWS-spotify-datapipeline-dashboard.pdf)
@@ -134,7 +131,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Constructed a dashboard that is designed to show the marketing and other stakeholders to visualize various streaming activities among Spotify. Stakeholders is able to tell see the number of artists, labels, tracks with explicit language, and the most popular artist at the moment. Some more granular visualization includes the most popular tracks streamed, number of records (by album type) released over time, as well as the number of records included in different album type. Finally, from this chart, the stakeholders can have a holistic view of what the music industry is like at the moment.
 
-### 4. Bath Airport Passenger Arrival Simulation and Optimization
+### 7. Bath Airport Passenger Arrival Simulation and Optimization
 **Repository:** [`https://github.com/tonychu805/bath_airport_simulation`](https://github.com/tonychu805/bath_airport_simulation)    
 
 **Presentation:** [`Otter - Case Study Analytics`](https://docs.google.com/presentation/d/1pn1hxxq-ltGTDHM2UDzShdar2B9wJSWtUuLzLInyePw/edit?usp=sharing)
@@ -147,7 +144,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Constructive and actionable insights of how Bath airport can optimize passenger check-in workflow using the detailed outcome of check-in desks’ average wait time, passport gates’ average wait time, total average wait time, and ratio of total passengers who have less than 1 minute of waiting time at the passport gate. 
 
-### 5. Car Insurance Claim Model
+### 8. Car Insurance Claim Model
 **Repository:** [`https://github.com/tonychu805/datacamp_car_insurance`](https://github.com/tonychu805/datacamp_car_insurance)    
 
 **Description:** On the Road car insurance wants to build a model to predict whether a customer will make a claim on their insurance during the policy period. Identify the single feature that results in the best performing model, as measured by accuracy.
