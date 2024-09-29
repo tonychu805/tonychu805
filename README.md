@@ -20,22 +20,23 @@ I'm currently open to help out data science / ML projects
 ## III. Table of contents
 - [About](#i-about)
 - [Tech Stack](#ii--tech-stack)
-- [Cybersecurity & Fraud Prevention Projects](#iii-cybersecurity-and-fraud-prevention-projects)
+- [Cybersecurity & Fraud Prevention Projects](iv-cybersecurity-and-fraud-prevention-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
   	+ [3. Microsoft Security Incident Prediction](#3-microsoft-security-incident-prediction)
-- [General Projects](#iv-general-projects)
+- [General Projects](#v-general-projects)
 	+ [1. NBA Basketball Sports Analytics - Clustering in ML](#1-nba-basketball-sports-analytics---dissertation-for-university-of-bath-masters-of-business-analytics)
 	+ [2. Food Delivery Platform Go-To-Market Strategies - Data Cleaning and Visualization](#2-food-delivery-platform-analysis---go-to-market-strategies)
  	+ [3. Spotify Streaming Analysis - Data Pipeline with AWS](#3-spotify-streaming-analysis-and-data-engineering-with-aws)
 	+ [4. Bath Airport Passenger Arrival Simulation and Optimization](#4-bath-airport-passenger-arrival-simulation-and-optimization)
 	+ [5. Car Insurance Claim Model](#5-car-insurance-claim-model)
-- [Small Projects](#v-small-projects)
+- [Small Projects](#vi-small-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
 	+ [3. Smartphone User Clustering](#3-smartphone-user-clustering)
-- [Certificates](#vi-certificates)
-- [Contacts](#vii-contacts)
+- [Certificates](#vii-certificates)
+- [Github Stats](#viii-github-stats)
+- [Contacts](#ix-contacts)
 
 ## IV. Cybersecurity and Fraud Prevention Projects
 
