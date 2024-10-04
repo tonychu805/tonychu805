@@ -35,8 +35,7 @@ I'm currently open to help out data science / ML projects
   	+ [3. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
 	
 - [Certificates](#vii-certificates)
-- [Github Stats](#viii--github-stats)
-- [Contacts](#ix-contacts)
+- [Contacts](#viii-contacts)
 
 ## IV. Analytics/ML Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -202,11 +201,6 @@ Here is a list of the data analytics certificates and programs that I have compl
 - [SQL for Beginner Data Analysis](https://udemy-certificate.s3.amazonaws.com/pdf/UC-7OUXO2ZH.pdf) (Jul 2016)(Udemy)
 - [Big Data and Hadoop Essentials](https://www.udemy.com/certificate/UC-IX3PT0YD/) (May 2016)(Udemy)
 
-## VIII. 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tonychu805&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tonychu805&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonychu805&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## IX. Contacts
+## VIII. Contacts
 - LinkedIn: [@tonychu805](https://www.linkedin.com/in/tonychu805/)
 - E-mail: tony.chu805@gmail.com
