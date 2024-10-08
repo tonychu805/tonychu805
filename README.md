@@ -20,7 +20,9 @@ I'm currently open to help out data science / ML projects
 ## III. Table of contents
 - [About](#i-about)
 - [Tech Stack](#ii--tech-stack)
-- [Analytics/ML Projects](iv-analytics/ML-projects)
+- [End To End Projects](iv-end-to-end-projects)
+	+ [1. Student Performance Predictor](#1-student-performance-predictor)
+- [Analytics/ML Projects](v-analytics/ML-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
   	+ [3. Microsoft Security Incident Prediction](#3-microsoft-security-incident-prediction)
@@ -37,7 +39,18 @@ I'm currently open to help out data science / ML projects
 - [Certificates](#vii-certificates)
 - [Contacts](#viii-contacts)
 
-## IV. Analytics/ML Projects
+## IV. End To End Projects
+
+### 1. Student Performance Predictor
+**Repository:** [`https://github.com/tonychu805/student-performance-predictor`](https://github.com/tonychu805/student-performance-predictor)
+
+**Description:** This project is an end to end data science project that provide a web interface to help users to predict student math scores based on various demographic and academic factors. It uses machine learning models to make predictions and provides a user-friendly interface for input and result display.
+
+**Skills:** Data cleaning, description analysis, data pipelining, data injestion, deployment, version control, model training
+
+**Technology:** Python 3.x, Flask (Web Framework), Scikit-learn (Machine Learning), Pandas (Data Manipulation), NumPy (Numerical Operations), HTML/CSS (Frontend)
+
+## V. Analytics/ML Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### 1. Credit fraud detection
