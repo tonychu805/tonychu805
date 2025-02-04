@@ -42,7 +42,7 @@ I'm currently open to help out data science / ML projects
 - [LLM Projects](#i-llm-projects)
 - [End To End Projects](#iii-end-to-end-projects)
 	+ [1. Student Performance Predictor](#1-student-performance-predictor)
-- [Analytics/ML Projects](#iv-analytics/ML-projects)
+- [Analytics/ML Projects](#iv-analyticsml-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
   	+ [3. Microsoft Security Incident Prediction](#3-microsoft-security-incident-prediction)
