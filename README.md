@@ -1,6 +1,6 @@
 # Tony Chu - Data Science Portfolio 
 
-## I. About
+## About
 Hi, I'm Tony! I hold a Master of Science (M.S.) degree in Business Analytics from the University of Bath, 
 and I am a growth marketing analytics manager with 5+ data protection and IT infrastructure industry experiences driving 
 business growth and working on high-impact projects on revenue attribution analysis, product optimization, 
@@ -14,7 +14,7 @@ I'm currently open to help out data science / ML projects
 * This repository serves to showcase my data science skills and a way to track my progress in Data Analytics and Data Science-related projects.
 </b>
 
-## II. 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -36,12 +36,13 @@ I'm currently open to help out data science / ML projects
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-## III. Table of contents
-- [About](#i-about)
-- [Tech Stack](#ii--tech-stack)
-- [End To End Projects](iv-end-to-end-projects)
+## I. Table of contents
+- [About](#about)
+- [Tech Stack](#tech-stack)
+- [LLM Projects](#i-llm-projects)
+- [End To End Projects](#iii-end-to-end-projects)
 	+ [1. Student Performance Predictor](#1-student-performance-predictor)
-- [Analytics/ML Projects](v-analytics/ML-projects)
+- [Analytics/ML Projects](#iv-analytics/ML-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
   	+ [3. Microsoft Security Incident Prediction](#3-microsoft-security-incident-prediction)
@@ -50,15 +51,17 @@ I'm currently open to help out data science / ML projects
  	+ [6. Spotify Streaming Analysis - Data Pipeline with AWS](#6-spotify-streaming-analysis-and-data-engineering-with-aws)
 	+ [7. Car Insurance Claim Model](#7-car-insurance-claim-model)
 	+ [8. Smartphone User Clustering](#8-smartphone-user-clustering)
-- [Data Engineering Projects](#vi-data-engineering-projects)
+- [Data Engineering Projects](#v-data-engineering-projects)
   	+ [1. Building A Retail Data Pipeline](#1building-a-retail-data-pipeline)
   	+ [2. Investigating Netflix Movies](#2investigating-netflix-movies)
   	+ [3. Bath Airport Passenger Arrival Simulation and Optimization](#3-bath-airport-passenger-arrival-simulation-and-optimization)
 	
-- [Certificates](#vii-certificates)
-- [Contacts](#viii-contacts)
+- [Certificates](#vi-certificates)
+- [Contacts](#vii-contacts)
 
-## IV. End To End Projects
+## II. LLM Projects
+
+## III. End To End Projects
 
 ### 1. Student Performance Predictor
 **Repository:** [`https://github.com/tonychu805/student-performance-predictor`](https://github.com/tonychu805/student-performance-predictor)
@@ -69,7 +72,7 @@ I'm currently open to help out data science / ML projects
 
 **Technology:** Python 3.x, Flask (Web Framework), Scikit-learn (Machine Learning), Pandas (Data Manipulation), NumPy (Numerical Operations), HTML/CSS (Frontend)
 
-## V. Analytics/ML Projects
+## IV. Analytics/ML Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### 1. Credit fraud detection
@@ -179,7 +182,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Description:** A handful of exploratory analyses such as identifying missing values and outliers, and exploring correlations of each variable, as well as clustering analyses including partitional clustering, hierarchical clustering, and soft (fuzzy) clustering techniques, are performed among different parameters using R language, to classify, label, or group data points contained within the data set.
 
-## VI. Data Engineering Projects
+## V. Data Engineering Projects
 In this section, I will list smaller-scale data analytics projects and exercises.
 
 ### 1.	Building a retail data pipeline
@@ -205,7 +208,7 @@ In this section, I will list smaller-scale data analytics projects and exercises
 
 **Results:** Constructive and actionable insights of how Bath airport can optimize passenger check-in workflow using the detailed outcome of check-in desks’ average wait time, passport gates’ average wait time, total average wait time, and ratio of total passengers who have less than 1 minute of waiting time at the passport gate. 
 
-## VII. Certificates
+## VI. Certificates
 Here is a list of the data analytics certificates and programs that I have completed over the years:
 - [Introduction to Git](https://www.datacamp.com/statement-of-accomplishment/course/95e4d09c9a5127c7839885c159ae188f6813cfd6?raw=1) (July 2024)(Datacamp)
 - [Streamlined data ingestion with Python](https://www.datacamp.com/statement-of-accomplishment/course/858312c1f72afb737ba60ebdf7d5bb89fd108aab?raw=1) (June 2024)(Datacamp)
@@ -233,6 +236,6 @@ Here is a list of the data analytics certificates and programs that I have compl
 - [SQL for Beginner Data Analysis](https://udemy-certificate.s3.amazonaws.com/pdf/UC-7OUXO2ZH.pdf) (Jul 2016)(Udemy)
 - [Big Data and Hadoop Essentials](https://www.udemy.com/certificate/UC-IX3PT0YD/) (May 2016)(Udemy)
 
-## VIII. Contacts
+## VII. Contacts
 - LinkedIn: [@tonychu805](https://www.linkedin.com/in/tonychu805/)
 - E-mail: tony.chu805@gmail.com
