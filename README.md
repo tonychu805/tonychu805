@@ -42,6 +42,7 @@ I'm currently open to help out data science / ML projects
 - [LLM Projects](#i-llm-projects)
 - [End To End Projects](#iii-end-to-end-projects)
 	+ [1. Student Performance Predictor](#1-student-performance-predictor)
+	+ [2. Finance Fraud Detection](#2-finance-fraud-detection)
 - [Analytics/ML Projects](#iv-analyticsml-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
@@ -71,6 +72,25 @@ I'm currently open to help out data science / ML projects
 **Skills:** Data cleaning, description analysis, data pipelining, data injestion, deployment, version control, model training
 
 **Technology:** Python 3.x, Flask (Web Framework), Scikit-learn (Machine Learning), Pandas (Data Manipulation), NumPy (Numerical Operations), HTML/CSS (Frontend)
+
+### 2. Finance Fraud Detection
+**Repository:** [`https://github.com/tonychu805/finance_fraud_detection`](https://github.com/tonychu805/finance_fraud_detection)
+
+**Description:** A comprehensive machine learning system for detecting fraudulent financial transactions using ensemble methods. The system employs LightGBM and Random Forest models with probability calibration to provide high-accuracy fraud detection with explainable predictions.
+
+**Skills:** Modular architecture, data processing pipeline, Feature engineering, Cross-validation support, Model versioning and tracking, Detailed logging and monitoring, Production-ready deployment options
+
+**Technology:** Python 3.x, numpy, pandas, lightgbm, scikit-learn, joblib.
+
+**Results:** 
+- Ensemble Model: F1 Score: 0.7567 | ROC AUC: 0.9971 | Precision: 0.8234 | Recall: 0.6989
+- Individual Models
+	- LightGBM:
+		- F1 Score: 0.7292
+		- ROC AUC: 0.9961
+	- Random Forest:
+		- F1 Score: 0.7456
+		- ROC AUC: 0.9968
 
 ## IV. Analytics/ML Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
