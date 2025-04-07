@@ -39,6 +39,7 @@ I'm currently open to help out data science / ML projects
 ## I. Table of contents
 - [About](#about)
 - [Tech Stack](#tech-stack)
+- [LLM Projects (TBD)](#llm-projects)
 - [End To End Projects](#iii-end-to-end-projects)
 	+ [1. Student Performance Predictor](#1-student-performance-predictor)
 	+ [2. Finance Fraud Detection](#2-finance-fraud-detection)
@@ -59,7 +60,7 @@ I'm currently open to help out data science / ML projects
 - [Certificates](#vi-certificates)
 - [Contacts](#vii-contacts)
 
-## II. LLM Projects
+## II. LLM Projects (TBD)
 
 ## III. End To End Projects
 
