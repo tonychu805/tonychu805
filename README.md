@@ -2,7 +2,7 @@
 
 ## About
 Hi, I'm Tony! I hold a Master of Science (M.S.) degree in Business Analytics from the University of Bath, 
-and I am a growth marketing analytics manager with 5+ data protection and IT infrastructure industry experiences driving 
+and I am a growth marketing manager with 5+ data protection and IT infrastructure industry experiences driving 
 business growth and working on high-impact projects on revenue attribution analysis, product optimization, 
 churn analysis, customer acquisitions, and more.
 
