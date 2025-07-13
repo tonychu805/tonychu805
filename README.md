@@ -6,9 +6,8 @@ and I am a growth marketing manager with 5+ data protection and IT infrastructur
 business growth and working on high-impact projects on revenue attribution analysis, product optimization, 
 churn analysis, customer acquisitions, and more.
 
-I'm currently looking for a data scientist role<br>
 I'm currently learning and expanding my data science knowledge<br>
-I'm currently open to help out data science / ML projects
+I'm currently utilizing data science / ML skills to solve problems
 
 <b>
 * This repository serves to showcase my data science skills and a way to track my progress in Data Analytics and Data Science-related projects.
