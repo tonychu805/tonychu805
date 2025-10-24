@@ -69,7 +69,7 @@ I'm currently utilizing data science / ML skills to solve problems
 
 **Landing Page:** [`https://www.audeon.app/`](https://www.audeon.app/)
 
-**Demo Page:** [`https://www.audeon.app/`](https://audeon.netlify.app/)
+**Demo Page:** [`https://audeon.netlify.app/`](https://audeon.netlify.app/)
 
 **Technology:** 
 - React 18 + TypeScript scaffolded with Vite, styled via Tailwind CSS and
