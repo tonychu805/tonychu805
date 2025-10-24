@@ -68,6 +68,9 @@ I'm currently utilizing data science / ML skills to solve problems
 
 **Description:** Building a professional content audio library with AI-powered narration.
 
+**Landing Page:** [`https://www.audeon.app/`](https://www.audeon.app/)
+**Demo Page:** [`https://www.audeon.app/`](https://audeon.netlify.app/)
+
 **Technology:** 
 - React 18 + TypeScript scaffolded with Vite, styled via Tailwind CSS and
 Lucide icons.
