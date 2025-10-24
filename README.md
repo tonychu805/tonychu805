@@ -38,7 +38,7 @@ I'm currently utilizing data science / ML skills to solve problems
 ## I. Table of contents
 - [About](#about)
 - [Tech Stack](#tech-stack)
-- [No-Code Building](#ii-no-code-building))
+- [No-Code Building](#ii-no-code-building)
 	+ [1. Audeon - Audio Library](#1-student-performance-predictor)
 - [End To End Projects](#iii-end-to-end-projects)
 	+ [1. Student Performance Predictor](#1-student-performance-predictor)
