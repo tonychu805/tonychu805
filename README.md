@@ -38,7 +38,9 @@ I'm currently utilizing data science / ML skills to solve problems
 ## I. Table of contents
 - [About](#about)
 - [Tech Stack](#tech-stack)
-- [LLM Projects (TBD)](#llm-projects)
+- [No-Code Building](#no-code-building)
+	+ [1. Audeon - Audio Library](#1-student-performance-predictor)
+	+ [2. Finance Fraud Detection](#2-finance-fraud-detection)
 - [End To End Projects](#iii-end-to-end-projects)
 	+ [1. Student Performance Predictor](#1-student-performance-predictor)
 	+ [2. Finance Fraud Detection](#2-finance-fraud-detection)
@@ -59,7 +61,24 @@ I'm currently utilizing data science / ML skills to solve problems
 - [Certificates](#vi-certificates)
 - [Contacts](#vii-contacts)
 
-## II. LLM Projects (TBD)
+## II. No-Code Building
+
+### 1. Audeon - Professional Content Library
+**Repository:** [`https://github.com/tonychu805/audeon`](https://github.com/tonychu805/audeon)
+
+**Description:** Building a professional content audio library with AI-powered narration.
+
+**Technology:** 
+- React 18 + TypeScript scaffolded with Vite, styled via Tailwind CSS and
+Lucide icons.
+- Supabase for PostgreSQL data, auth, and storage; HTML5 audio powering
+playback controls.
+- Advanced text-to-speech pipeline for producing the narrated track catalog.
+- React Router for navigation, Vitest + React Testing Library for units, and
+Playwright for end-to-end coverage.
+- Netlify for delivery and edge middleware, with npm scripts managing dev,
+build, lint, and test workflows.
+
 
 ## III. End To End Projects
 
