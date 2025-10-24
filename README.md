@@ -69,6 +69,7 @@ I'm currently utilizing data science / ML skills to solve problems
 **Description:** Building a professional content audio library with AI-powered narration.
 
 **Landing Page:** [`https://www.audeon.app/`](https://www.audeon.app/)
+
 **Demo Page:** [`https://www.audeon.app/`](https://audeon.netlify.app/)
 
 **Technology:** 
@@ -82,6 +83,7 @@ Playwright for end-to-end coverage.
 - Netlify for delivery and edge middleware, with npm scripts managing dev,
 build, lint, and test workflows.
 
+<img width="393" height="850" alt="Screenshot 2025-10-03 at 5 21 52 PM" src="https://github.com/user-attachments/assets/a201c862-29ef-4fb6-81cb-832a8ec6492e" />
 
 ## III. End To End Projects
 
