@@ -40,7 +40,6 @@ I'm currently utilizing data science / ML skills to solve problems
 - [Tech Stack](#tech-stack)
 - [No-Code Building](#no-code-building)
 	+ [1. Audeon - Audio Library](#1-student-performance-predictor)
-	+ [2. Finance Fraud Detection](#2-finance-fraud-detection)
 - [End To End Projects](#iii-end-to-end-projects)
 	+ [1. Student Performance Predictor](#1-student-performance-predictor)
 	+ [2. Finance Fraud Detection](#2-finance-fraud-detection)
