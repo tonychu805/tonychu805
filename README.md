@@ -41,8 +41,9 @@ I'm currently utilizing data science / ML skills to solve problems
 - [No-Code Building](#ii-no-code-building)
 	+ [1. Audeon - Audio Library](#1-student-performance-predictor)
 - [End To End Projects](#iii-end-to-end-projects)
-	+ [1. Student Performance Predictor](#1-student-performance-predictor)
-	+ [2. Finance Fraud Detection](#2-finance-fraud-detection)
+	+ [1. BI Forecasting & Adoption Platform](#2-student-performance-predictor)
+  	+ [2. Student Performance Predictor](#2-student-performance-predictor)
+	+ [3. Finance Fraud Detection](#3-finance-fraud-detection)
 - [Analytics/ML Projects](#iv-analyticsml-projects)
  	+ [1. Credit Fraud Detection](#1-credit-fraud-detection)
   	+ [2. Cybersecurity Threat Analysis](#2-cybersecurity-threat-analysis)
@@ -86,7 +87,16 @@ build, lint, and test workflows.
 
 ## III. End To End Projects
 
-### 1. Student Performance Predictor
+### 1. BI Forecasting & Adoption Platform
+**Repository:** [`https://github.com/tonychu805/syno_bi`](https://github.com/tonychu805/syno_bi)
+
+**Description:** End-to-end BI and forecasting workspace that ingests Synology’s global sale-out snapshots, standardizes them with dbt, and operationalizes SVR‑RM / C2 adoption insights via Apache Airflow, Metabase, and executive-ready narratives. Demonstrates BI manager capabilities in multi-source integration, forecast automation, and commercial storytelling aligned to a formal PRD and implementation playbooks.
+
+**Skills:** Data ingestion, feature engineering, forecasting, ETL orchestration, dbt modeling, BI dashboard readiness, documentation & governance, Dockerized workflows, version control
+
+**Technology:** Python 3.11, Pandas, Statsmodels, Scikit-learn, XGBoost, Apache Airflow, dbt Core (Postgres), Docker Compose, Metabase, Redis, pgAdmin
+
+### 2. Student Performance Predictor
 **Repository:** [`https://github.com/tonychu805/student-performance-predictor`](https://github.com/tonychu805/student-performance-predictor)
 
 **Description:** This project is an end to end data science project that provide a web interface to help users to predict student math scores based on various demographic and academic factors. It uses machine learning models to make predictions and provides a user-friendly interface for input and result display.
@@ -95,7 +105,7 @@ build, lint, and test workflows.
 
 **Technology:** Python 3.x, Flask (Web Framework), Scikit-learn (Machine Learning), Pandas (Data Manipulation), NumPy (Numerical Operations), HTML/CSS (Frontend)
 
-### 2. Finance Fraud Detection
+### 3. Finance Fraud Detection
 **Repository:** [`https://github.com/tonychu805/finance_fraud_detection`](https://github.com/tonychu805/finance_fraud_detection)
 
 **Description:** A comprehensive machine learning system for detecting fraudulent financial transactions using ensemble methods. The system employs LightGBM and Random Forest models with probability calibration to provide high-accuracy fraud detection with explainable predictions.
